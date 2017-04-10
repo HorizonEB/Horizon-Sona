@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\The Horizon Sona.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\The Horizon Sona.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\The Horizon Sona.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\EloBuddy.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\EloBuddy.SDK.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\SharpDX.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\obj\Release\The Horizon Sona.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\obj\Release\The Horizon Sona.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\The Horizon Sona\The Horizon Sona\obj\Release\The Horizon Sona.pdb
