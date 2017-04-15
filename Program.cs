@@ -308,7 +308,10 @@ namespace The_Horizon_Sona
         public static void Activator()
         {
             var target = TargetSelector.GetTarget(_Ignite.Range, DamageType.True);
-            if (_Ignite != null && ActivatorMenu["IGNI"].Cast<CheckBox>().CurrentValue && _Ignite.IsReady())
+            if (target == null)
+                return;
+            if (ActivatorMenu["IGNI"].Cast<CheckBox>().CurrentValue && _Ignite.IsReady() && target.IsValidTarget())
+
             {
                 if (target.Health + target.AttackShield <
                     _Player.GetSummonerSpellDamage(target, DamageLibrary.SummonerSpells.Ignite))
